@@ -1,6 +1,6 @@
 # CONSIGNES_4ETI_AdmCO_20252026
 
-Pour chaque Version d'un code, vous devrez :
+Pour chaque Version finale d'un code, vous devrez :
 1. La tagger (git tag ...)
 1. Expliquer ce qui marche et ce qui ne marche pas
 1. Joindre des copies du résultats des scripts exécutés
